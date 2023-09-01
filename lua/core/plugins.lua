@@ -12,7 +12,11 @@ local plugins = {
   },
   {
     "rcarriga/nvim-notify",
+  },
+  {
+    "williamboman/mason.nvim"
   }
+
 }
 
 
